@@ -1,0 +1,33 @@
+@font-face {
+    font-family gamefont;
+    src url(httpsfonts.gstatic.comspoppinsv15pxiByp8kv8JHgFVrLBT5Z1xlFQ.woff2);
+    }
+
+#newsHolder {
+    display none;
+}
+
+#termsInfo {
+    display none;
+}
+
+div#infoHolder {
+    position absolute;
+    padding 0;
+    margin 0; 
+}
+
+div#mapInfo {
+    position fixed;
+    color white;
+    background #00000075;
+    padding 7px;
+    border-radius 5px;
+    margin 0;
+    right 50%;
+    top 50%;
+
+div#streamContainer {
+    display: none;
+
+}
